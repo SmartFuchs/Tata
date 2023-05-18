@@ -1,0 +1,59 @@
+body {
+
+    width: 200%;
+
+     height: 200%; 
+
+     transform-origin: top left;         transform: scale(50%);
+
+    font-family:"Arial";
+
+    display: flex;
+
+    height:100vh;
+
+    justify-center:center;
+
+    align-items:center;
+
+    perspective:600px;
+
+    background-color:red;
+
+}
+
+h1{
+
+    margin:0;
+
+    font-size:120;
+
+    text-shadow: 1px 1px  0px black,
+
+    2px 2px 0 blue,
+
+    3px 3px 0 blue,
+
+    4px 4px 0 blue,
+
+    5px 5px 0 blue,
+
+    6px 6px 0 blue,
+
+    7px 7px 0 blue,
+
+    8px 8px 0 blue,
+
+    9px 9px 0 blue,
+
+    10px 10px 0 blue,
+
+    11px 11px 0 blue,
+
+    12px 13px 0 blue;
+
+    transition:.7s;
+
+}
+
+ 
